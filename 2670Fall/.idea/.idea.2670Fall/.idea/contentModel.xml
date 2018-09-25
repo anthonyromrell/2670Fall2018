@@ -5,8 +5,97 @@
       <e p="2670Fall.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="ArtisanDream" t="Include">
+          <e p="DataStorage" t="Include">
+            <e p="DataStorage.cs" t="Include" />
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="StringData.cs" t="Include" />
+                <e p="TextUI.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Generics" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ActionHandlers" t="Include">
+                <e p="GameActionHandler.cs" t="Include" />
+                <e p="TextActionHandler.cs" t="Include" />
+              </e>
+              <e p="Actions" t="Include">
+                <e p="GameAction.cs" t="Include" />
+              </e>
+              <e p="Behaviours" t="Include">
+                <e p="ChildObject.cs" t="Include" />
+                <e p="ClickRunActionBehaviour.cs" t="Include" />
+                <e p="DestroyAsset.cs" t="Include" />
+                <e p="ParentObject.cs" t="Include" />
+                <e p="SendGameObject.cs" t="Include" />
+                <e p="SendObject.cs" t="Include" />
+                <e p="SendTransform.cs" t="Include" />
+                <e p="StartActionBehaviour.cs" t="Include" />
+                <e p="Trigger.cs" t="Include" />
+                <e p="TriggerEvent.cs" t="Include" />
+              </e>
+              <e p="Dragable" t="Include">
+                <e p="Draggable.cs" t="Include" />
+                <e p="DragMove.cs" t="Include" />
+                <e p="IDrag.cs" t="Include" />
+              </e>
+              <e p="Examples" t="Include">
+                <e p="HealthBehaviour.cs" t="Include" />
+                <e p="PlayerTrigger.cs" t="Include" />
+              </e>
+              <e p="Functions" t="Include">
+                <e p="FunctionBase.cs" t="Include" />
+              </e>
+              <e p="GameStates" t="Include">
+                <e p="GameBrain.cs" t="Include" />
+                <e p="GameBrainBehaviour.cs" t="Include" />
+                <e p="GameStateBase.cs" t="Include" />
+                <e p="GameStateBehaviour.cs" t="Include" />
+                <e p="RunGame.cs" t="Include" />
+                <e p="StartGame.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IAction.cs" t="Include" />
+              </e>
+              <e p="Legacy" t="Include">
+                <e p="Health.cs" t="Include" />
+                <e p="SendAndGetObject.cs" t="Include" />
+              </e>
+              <e p="MonoEvents" t="Include">
+                <e p="MouseDragEventBehaviour.cs" t="Include" />
+              </e>
+              <e p="Objects" t="Include">
+                <e p="DebugObject.cs" t="Include" />
+                <e p="float3.cs" t="Include" />
+                <e p="FloatBase.cs" t="Include" />
+                <e p="GenericObjects.cs" t="Include" />
+                <e p="GenericObjectsBase.cs" t="Include" />
+                <e p="IntData.cs" t="Include" />
+                <e p="TransformVariable.cs" t="Include" />
+                <e p="Vector3Data.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Experimental" t="Include">
+          <e p="DataStorage" t="Include">
+            <e p="DataStorage.cs" t="Include" />
+          </e>
+          <e p="Dragable" t="Include">
+            <e p="DragFreeRotation.cs" t="Include" />
+            <e p="DragLimitedRotation.cs" t="Include" />
+            <e p="DragRotationBase.cs" t="Include" />
+            <e p="DragRotClick.cs" t="Include" />
+          </e>
+          <e p="JumpCharacter.cs" t="Include" />
+        </e>
+        <e p="JumpCharacter.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="AIAgent.cs" t="Include" />
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="DoubleJump.cs" t="Include" />
           <e p="EventBasedBehaviours" t="Include">
             <e p="DestroyEvent.cs" t="Include" />
             <e p="DisableEvent.cs" t="Include" />
@@ -15,12 +104,21 @@
             <e p="UpdateEvent.cs" t="Include" />
           </e>
           <e p="EventScript.cs" t="Include" />
+          <e p="FloatBool.cs" t="Include" />
+          <e p="FloatBoolAndCount.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
+          <e p="ForEachLoops.cs" t="Include" />
+          <e p="InstanceObject.cs" t="Include" />
+          <e p="Move.cs" t="Include" />
+          <e p="MovePattern.cs" t="Include" />
+          <e p="MovePatternDual.cs" t="Include" />
+          <e p="MovePatternNotGrounded.cs" t="Include" />
           <e p="NewEvent.cs" t="Include" />
           <e p="PowerUpConfig.cs" t="Include" />
           <e p="PowerUpData.cs" t="Include" />
           <e p="PrefabData.cs" t="Include" />
+          <e p="RunCountDown.cs" t="Include" />
           <e p="SaveScene.cs" t="Include" />
         </e>
       </e>
