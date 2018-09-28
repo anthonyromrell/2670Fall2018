@@ -11,136 +11,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AIAgent.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs">
+      <file leaf-file-name="Letters.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Letters.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="132">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding>
-                <marker date="1537388063242" expanded="false" signature="6:40" ph="..." />
-                <marker date="1537388063242" expanded="true" signature="323:445" ph="{...}" />
-                <marker date="1537388063242" expanded="true" signature="489:565" ph="{...}" />
-                <marker date="1537388063242" expanded="true" signature="608:647" ph="{...}" />
-                <marker date="1537388063242" expanded="true" signature="671:726" ph="{...}" />
+                <marker date="1537992613878" expanded="true" signature="26:158" ph="{...}" />
+                <marker date="1537992613878" expanded="true" signature="68:152" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../1610Fall2018/1610/Assets/Scripts/FloatData.cs">
+      <file leaf-file-name="Letter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Letter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="196">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <marker date="1537823069274" expanded="true" signature="0:6" ph="..." />
+                <marker date="1537992612829" expanded="true" signature="97:140" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataStorage.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/DataStorage.cs">
+      <file leaf-file-name="Word.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Word.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="336">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
-                <marker date="1537818623504" expanded="true" signature="55:662" ph="{...}" />
-                <marker date="1537818623504" expanded="true" signature="200:660" ph="{...}" />
-                <marker date="1537818623504" expanded="true" signature="275:405" ph="{...}" />
-                <marker date="1537818623504" expanded="true" signature="436:654" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataStorage.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <marker date="1537818758217" expanded="true" signature="6:40" ph="..." />
-                <marker date="1537818758217" expanded="true" signature="76:683" ph="{...}" />
-                <marker date="1537818758217" expanded="true" signature="221:681" ph="{...}" />
-                <marker date="1537818758217" expanded="true" signature="296:426" ph="{...}" />
-                <marker date="1537818758217" expanded="true" signature="457:675" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JumpCharacter.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Experimental/JumpCharacter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="30" />
-              <folding>
-                <marker date="1537818995567" expanded="true" signature="68:126" ph="{...}" />
-                <marker date="1537818995567" expanded="true" signature="115:124" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JumpCharacter.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/JumpCharacter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1537819112029" expanded="true" signature="6:78" ph="..." />
-                <marker date="1537819112029" expanded="true" signature="149:157" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunCountDown.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <marker date="1537595421996" expanded="false" signature="6:100" ph="..." />
-                <marker date="1537595421996" expanded="true" signature="276:561" ph="{...}" />
-                <marker date="1537595421996" expanded="true" signature="342:465" ph="{...}" />
-                <marker date="1537595421996" expanded="true" signature="614:658" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InstanceObject.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1537599929128" expanded="true" signature="89:178" ph="{...}" />
-                <marker date="1537599929128" expanded="true" signature="145:176" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloatInput.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <marker date="1536178670517" expanded="true" signature="105:189" ph="{...}" />
-                <marker date="1536178670517" expanded="true" signature="158:187" ph="{...}" />
+                <marker date="1537993358330" expanded="true" signature="6:78" ph="..." />
+                <marker date="1537993358330" expanded="true" signature="153:337" ph="{...}" />
+                <marker date="1537993358330" expanded="true" signature="266:335" ph="{...}" />
+                <marker date="1537993358330" expanded="true" signature="303:332" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -152,30 +57,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2544879E-1F7B-4C75-A078-8E876883DCEA/85/5f16639a/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../1610Fall2018/1610/Assets/Scripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PrefabData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JumpCharacter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Experimental/JumpCharacter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Letters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Word.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/DataStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Letter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,6 +94,10 @@
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/Experimental/JumpCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/JumpCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Experimental/Word.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Letters.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Letter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Word.cs" />
       </list>
     </option>
   </component>
@@ -221,10 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -232,10 +119,24 @@
               <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="2670Fall" type="483dac07:UnityExplorerNode$Root" />
             </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="2670Fall" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="2670Fall" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -295,11 +196,11 @@
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -318,207 +219,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <marker date="1536178670517" expanded="true" signature="105:189" ph="{...}" />
-            <marker date="1536178670517" expanded="true" signature="158:187" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <marker date="1537595421996" expanded="false" signature="6:100" ph="..." />
-            <marker date="1537595421996" expanded="true" signature="276:561" ph="{...}" />
-            <marker date="1537595421996" expanded="true" signature="342:465" ph="{...}" />
-            <marker date="1537595421996" expanded="true" signature="614:658" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunCountDown.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpConfig.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Prefabs/PowerUpConfig.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2544879E-1F7B-4C75-A078-8E876883DCEA/21/6068c63d/ScriptableObject.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PrefabData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScene.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PrefabData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2544879E-1F7B-4C75-A078-8E876883DCEA/85/5f16639a/UnityEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -526,153 +251,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragRotationBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragFreeRotation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragLimitedRotation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/Scripts/DataStorage.cs" />
+    <entry file="file://$PROJECT_DIR$/../../1610Fall2018/1610/Assets/Scripts/FloatData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Experimental/JumpCharacter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/JumpCharacter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DestroyEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/MouseDownEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/TriggerEnterEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/UpdateEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventBasedBehaviours/DisableEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="195">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
-            <marker date="1536178670517" expanded="true" signature="105:189" ph="{...}" />
-            <marker date="1536178670517" expanded="true" signature="158:187" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ForEachLoops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <marker date="1537386622077" expanded="true" signature="6:78" ph="..." />
-            <marker date="1537386622077" expanded="true" signature="168:463" ph="{...}" />
-            <marker date="1537386622077" expanded="true" signature="267:460" ph="{...}" />
-            <marker date="1537386622077" expanded="true" signature="381:457" ph="{...}" />
-            <marker date="1537386622077" expanded="true" signature="408:453" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragRotationBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragFreeRotation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Generics/Scripts/Dragable/DragLimitedRotation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIAgent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <marker date="1537388063242" expanded="false" signature="6:40" ph="..." />
-            <marker date="1537388063242" expanded="true" signature="323:445" ph="{...}" />
-            <marker date="1537388063242" expanded="true" signature="489:565" ph="{...}" />
-            <marker date="1537388063242" expanded="true" signature="608:647" ph="{...}" />
-            <marker date="1537388063242" expanded="true" signature="671:726" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstanceObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1537599929128" expanded="true" signature="89:178" ph="{...}" />
-            <marker date="1537599929128" expanded="true" signature="145:176" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/Scripts/DataStorage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../1610Fall2018/1610/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <marker date="1537823069274" expanded="true" signature="0:6" ph="..." />
+            <marker date="1537818758217" expanded="false" signature="6:40" ph="..." />
+            <marker date="1537818758217" expanded="true" signature="76:683" ph="{...}" />
+            <marker date="1537818758217" expanded="true" signature="221:681" ph="{...}" />
+            <marker date="1537818758217" expanded="true" signature="296:426" ph="{...}" />
+            <marker date="1537818758217" expanded="true" signature="457:675" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Experimental/DataStorage/DataStorage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
+        <state relative-caret-position="30">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="34" />
           <folding>
             <marker date="1537818623504" expanded="true" signature="55:662" ph="{...}" />
@@ -683,38 +297,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/DataStorage/DataStorage.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Experimental/Word.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="60">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Letters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
-            <marker date="1537818758217" expanded="true" signature="6:40" ph="..." />
-            <marker date="1537818758217" expanded="true" signature="76:683" ph="{...}" />
-            <marker date="1537818758217" expanded="true" signature="221:681" ph="{...}" />
-            <marker date="1537818758217" expanded="true" signature="296:426" ph="{...}" />
-            <marker date="1537818758217" expanded="true" signature="457:675" ph="{...}" />
+            <marker date="1537992613878" expanded="true" signature="26:158" ph="{...}" />
+            <marker date="1537992613878" expanded="true" signature="68:152" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Experimental/JumpCharacter.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Letter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <marker date="1537818995567" expanded="true" signature="68:126" ph="{...}" />
-            <marker date="1537818995567" expanded="true" signature="115:124" ph="{...}" />
+            <marker date="1537992612829" expanded="true" signature="97:140" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/JumpCharacter.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Word.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="336">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
-            <marker date="1537819112029" expanded="true" signature="6:78" ph="..." />
-            <marker date="1537819112029" expanded="true" signature="149:157" ph="{...}" />
+            <marker date="1537993358330" expanded="true" signature="6:78" ph="..." />
+            <marker date="1537993358330" expanded="true" signature="153:337" ph="{...}" />
+            <marker date="1537993358330" expanded="true" signature="266:335" ph="{...}" />
+            <marker date="1537993358330" expanded="true" signature="303:332" ph="{...}" />
           </folding>
         </state>
       </provider>
