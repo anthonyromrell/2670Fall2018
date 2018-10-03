@@ -202,6 +202,7 @@ GameObject:
   - component: {fileID: 1163664691}
   - component: {fileID: 1163664690}
   - component: {fileID: 1163664694}
+  - component: {fileID: 1163664695}
   m_Layer: 0
   m_Name: Letter A
   m_TagString: Untagged
@@ -217,7 +218,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1163664689}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d393446211ff412dbba096cfdedd453, type: 3}
+  m_Script: {fileID: 11500000, guid: 39afe1d2563bb428ebc54b17fc697fa8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!65 &1163664691
@@ -303,6 +304,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: {fileID: 11400000, guid: 1d9348fa6355f41a8abe1bd8307f3e47, type: 2}
+--- !u!114 &1163664695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1163664689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe7b027226346ce93031b8f9424efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1298586801
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,7 +436,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c505968fc3abc462ca6f26f2742e18da, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.023376942, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -476,7 +488,18 @@ MonoBehaviour:
   ID: {fileID: 11400000, guid: 1d9348fa6355f41a8abe1bd8307f3e47, type: 2}
   OnMatch:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1163664695}
+        m_MethodName: Invoke
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Collider, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!65 &1373268214
