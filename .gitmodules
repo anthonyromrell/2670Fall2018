@@ -7,3 +7,9 @@
 [submodule "2670Fall/Assets/Experimental"]
 	path = 2670Fall/Assets/Experimental
 	url = https://github.com/anthonyromrell/Experimental.git
+[submodule "2670Fall/Assets/Unity.CSharp.Basics"]
+	path = 2670Fall/Assets/Unity.CSharp.Basics
+	url = https://github.com/anthonyromrell/Unity.CSharp.Basics.git
+[submodule "2670Fall/Assets/ArtisanDream.Legacy"]
+	path = 2670Fall/Assets/ArtisanDream.Legacy
+	url = https://github.com/anthonyromrell/ArtisanDream.Legacy.git
