@@ -64,14 +64,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1018341611832578}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0835f2af7f4bf473695443dafb57d1d1, type: 3}
+  m_Script: {fileID: 11500000, guid: 10db14501d8f44560a2999e282b7530f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 1d9348fa6355f41a8abe1bd8307f3e47, type: 2}
+  ID: {fileID: 11400000, guid: c10715584c5794b29ac40e0badf7c0fa, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: b44026f1682414786b411c12a36312f6, type: 2}
+      - m_Target: {fileID: 11400000, guid: b87a4c11d22624b219dc101787c44138, type: 2}
         m_MethodName: Invoke
         m_Mode: 2
         m_Arguments:
@@ -82,19 +82,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 114439961471966528}
-        m_MethodName: StopAllCoroutines
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 114075218611821004}
-        m_MethodName: Invoke
+        m_MethodName: Call
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

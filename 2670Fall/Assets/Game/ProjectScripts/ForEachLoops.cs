@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using ArtisanDream.Tools.Objects;
+using ArtisanDream.Tools;
 using UnityEngine;
 
 //Made By Anthony Romrell

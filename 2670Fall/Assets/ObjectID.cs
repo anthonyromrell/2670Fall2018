@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using ArtisanDream.Experimental.Objects;
+﻿using ArtisanDream.Experimental;
 using UnityEngine;
 
 
