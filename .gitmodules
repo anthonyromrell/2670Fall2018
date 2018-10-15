@@ -19,3 +19,6 @@
 [submodule "2670Fall/Assets/NavComps"]
 	path = 2670Fall/Assets/NavComps
 	url = https://github.com/anthonyromrell/NavMeshComponents.git
+[submodule "2670Fall/Assets/Unity.Basic"]
+	path = 2670Fall/Assets/Unity.Basic
+	url = https://github.com/anthonyromrell/Unity.Basics.git
